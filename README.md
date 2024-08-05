@@ -60,13 +60,18 @@
 
 </div>
 <hr/>
-<h2 align="left">⚡ Stats ⚡</h2>
-<br>
-<div align=left>
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=salesp07&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=500 align="center" src="https://github-readme-stats-karan-patel28.vercel.app/api/top-langs/?username=karan-patel28&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<h2 align="left">⚡ Projects ⚡</h2>
 
-###
+- [Compact Aerial Mapping System](https://github.com/karan-patel28/Compact-Ariel-Mapping): Created a safety and rescue support system using Raspberry Pi, integrating sensors and IR imaging for real-time monitoring.
+
+- [Online Café ERP System](): Developed an Android ERP application with Java and Oracle, managing orders and inventory in real-time to enhance efficiency.
+  
+- [Stock Market Real-Time Analysis](https://github.com/karan-patel28/kafka-AWS-stock-market-pipeline): Built a real-time stock market simulation system using Apache Kafka and AWS, enhancing data handling and financial simulations.
+
+- [Server Management Tool](https://github.com/karan-patel28/Server-Management-Tool): Created an Android app for remote server management using SQL Server, ASP.NET, and C#, enabling server operations control.
+
+- [Evolution of Roads in Boston](https://github.com/karan-patel28/Evolution-of-Roads-Boston): Developed a web application with React and Vega-Lite, detailing Boston's road infrastructure evolution through interactive visualizations.
+
+- [Movie Mate Recommendation Website](https://github.com/karan-patel28/Movie-Mate): Designed a movie recommendation web app using the MERN stack and Tailwind CSS, integrating dynamic movie details and recommendations.
+
+- [Plant Monitor](https://github.com/karan-patel28/Plant-Monitor): Developed an Android app using Flutter and C++ to monitor environmental conditions for optimal planting, with advanced data encryption.
