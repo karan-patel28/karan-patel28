@@ -68,7 +68,7 @@
   
 - [Stock Market Real-Time Analysis](https://github.com/karan-patel28/kafka-AWS-stock-market-pipeline): Built a real-time stock market simulation system using Apache Kafka and AWS, enhancing data handling and financial simulations.
 
-- [Server Management Tool](https://github.com/karan-patel28/Server-Management-Tool): Created an Android app for remote server management using SQL Server, ASP.NET, and C#, enabling server operations control.
+- [Server Management Tool](https://github.com/karan-patel28/Server-Management-Tool): Developed a cross-platform (Flutter, Spring Boot) mobile app for Government Engineering College, Gandhinagar, enabling secure server control, real-time monitoring, user authentication, and PostgreSQL integration.
 
 - [Evolution of Roads in Boston](https://github.com/karan-patel28/Evolution-of-Roads-Boston): Developed a web application with React and Vega-Lite, detailing Boston's road infrastructure evolution through interactive visualizations.
 
