@@ -75,3 +75,9 @@
 - [Movie Mate Recommendation Website](https://github.com/karan-patel28/Movie-Mate): Designed a movie recommendation web app using the MERN stack and Tailwind CSS, integrating dynamic movie details and recommendations.
 
 - [Plant Monitor](https://github.com/karan-patel28/Plant-Monitor): Developed an Android app using Flutter and C++ to monitor environmental conditions for optimal planting, with advanced data encryption.
+
+- [Sentiment Analysis on Amazon Food Reviews](https://github.com/karan-patel28/Sentiment-Analysis-of-Amazon-Food-Reviews): Developed a sentiment analysis project on Amazon's food reviews using Python, NLTK's SentimentIntensityAnalyzer, and the RoBERTa model, with data visualization and comparative sentiment scoring to enhance customer feedback insights.
+
+- [University Staff Insight Board](https://lookerstudio.google.com/u/0/reporting/63d0010a-ace9-42ec-a8f0-3ed995e743b4/page/lXzxD): Developed an Android app using Flutter and C++ to monitor environmental conditions for optimal planting, with advanced data encryption.
+
+- [University of Massachusetts Compensation Comparison: Coaches vs. Faculty Visualization](https://lookerstudio.google.com/u/0/reporting/02a2cd8c-6488-4eec-b4a2-5bcc9530bc5c/page/6DIyD): Developed a dashboard using Google Looker, Python, and pandas to compare compensation trends of coaches and faculty across the University of Massachusetts, highlighting salary disparities from 2010 to 2024.
